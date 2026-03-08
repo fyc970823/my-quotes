@@ -1,0 +1,20 @@
+[
+  {
+    "Data_Type": "Package",
+    "package": "default",
+    "developer": "蛋餅",
+    "date": "2026-03-08",
+    "type": "8"
+  },
+	[{
+		"content": "我是蛋餅，眾所周知，蛋餅不會冷掉<br>只會讓世界變冷。",
+		"author": "我",
+		"from": "《蛋餅語錄》"
+  },
+	{
+		"content": "“悔之无及”，既然“无及”，也就不悔了。",
+		"author": "鲁迅",
+		"from": "《狂人日记》"
+	}
+	]
+]
