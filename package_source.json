@@ -1,0 +1,11 @@
+[
+  { "Data_Type": "Package_source",
+    "Package_From": "蛋餅的雲端語錄" 
+  },
+  [
+    {
+      "Package_Source": "https://cdn.jsdelivr.net/gh/fyc970823/my-quotes@master/default.json",
+      "package": "default"
+    }
+  ]
+]
